@@ -1,5 +1,7 @@
 ## Portable-QR-Code-Qenerator-with-python
-
+Generate Qr codes on the go!!                                                                                                           
+No internet connection required!!
+        
 # Objective
 1.The main objective of the application is to utilise new libraries and produce QR Code for the given data.                                
 2.Also this application bypasses the saving process beforing displaying it.                                                                
